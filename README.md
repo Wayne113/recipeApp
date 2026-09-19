@@ -1,4 +1,4 @@
-# recipe_app
+# Recipe App
 
 Flutter-based Recipe App for Mobile Assessment
 
