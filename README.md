@@ -1,6 +1,6 @@
 # recipe_app
 
-A new Flutter project.
+Flutter-based Recipe App for Mobile Assessment
 
 
 
